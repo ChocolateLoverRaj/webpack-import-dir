@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "lint": "eslint ."
+  },
+  "private": true,
+  "name": "webpack-import-dir",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ChocolateLoverRaj/webpack-import-dir#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocolateLoverRaj/webpack-import-dir.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-import-dir-2": "^2.0.1",
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1 || ^5.0.0",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "main": "lib/index.js",
+  "author": {
+    "name": "Rajas Paranjpe",
+    "url": "https://github.com/ChocolateLoverRaj"
+  }
+}
