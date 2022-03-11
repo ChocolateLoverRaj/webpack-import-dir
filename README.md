@@ -1,5 +1,5 @@
-# webpack-import-dir
+# typescript-plugin-import-dir
 
 ![Created with ](https://img.shields.io/badge/Created%20with-@programmerraj/create-3cb371?style=flat)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![TS-Standard - Typescript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
       

@@ -1,0 +1,15 @@
+{
+  "include": [
+    "./lib"
+  ],
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./lib",
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "importHelpers": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strictBindCallApply": true
+  }
+}

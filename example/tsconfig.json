@@ -1,0 +1,14 @@
+{
+  "include": [
+    "src"
+  ],
+  "compilerOptions": {
+    "noEmit": true,
+    "plugins": [
+      {
+        "name": "typescript-plugin-import-dir"
+      }
+    ],
+    "strictNullChecks": true
+  }
+}
